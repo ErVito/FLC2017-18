@@ -1,7 +1,7 @@
 template letter
-Caro Babbo Natale,
-ti scrivo questa letterina per
-provare il mio nuovo traduttore
-da questo pseudo-linguaggio a
-LaTeX
+	Caro Babbo Natale,
+	ti scrivo questa letterina per
+	provare il mio nuovo traduttore
+	da questo pseudo-linguaggio a
+	LaTeX
 end
