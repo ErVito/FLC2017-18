@@ -1,0 +1,6 @@
+template article
+author	 Pippo
+title	 Pluto
+	% questo è un commento
+	Alura world
+end
