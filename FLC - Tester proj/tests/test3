@@ -1,3 +1,6 @@
-template questo non è un template
-	Bah, proviamo a vedere se lo riconosce...
-end	
+template ladox
+	% da notare che ho dovuto usare la parola modello...
+	Questo è un modello LaDoX e, se funziona,
+	genera la javadoc per il seguente metodo:
+	rule sign HashMap<Funghi,int> raccogli(Bosco b)
+end
