@@ -12,7 +12,7 @@ public class TranslatorTest {
 	public static void main(String[] args) {
 		CommonTokenStream tokens;
 		int	   ntest = 0;
-		String tester	= "/home/marco/Desktop/Progetto LFC/ProgettoLFCTester";
+		String tester	= "/home/marco/Desktop/FLC project/FLC - Tester proj";
 	  	String testsPath= tester+"/tests";
 	  	File   testsDir	= new File(testsPath);
 		File[] tests 	= testsDir.listFiles();

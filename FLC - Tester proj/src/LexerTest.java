@@ -10,7 +10,7 @@ public class LexerTest {
 	public static void main(String[] args) {
 	  	int 				  i, labelPadding=0, ntest=0, tokenPadding=0;
 	  	Map<Integer, String>  labels;
-		String tester		= "/home/marco/Desktop/Progetto LFC/ProgettoLFCTester";
+		String tester		= "/home/marco/Desktop/FLC project/FLC - Tester proj";
 		String tokens		= tester+"/src/generated/SimplifiedLatexLexer.tokens";
 		String testsPath	= tester+"/tests";
 	  	File   testsDir		= new File(testsPath);
