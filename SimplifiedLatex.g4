@@ -40,7 +40,7 @@ THESIS:		'thesis';
 TITLE:		'title';
 
 /* Generic words and special characters */
-EOL:		('\n' '\r'?);
+EOL:		('\r'? '\n');
 PERCENT:	'%';
 WORD: 		([!-$] | [&-Z] | [a-z] | [¡-ÿ])+;
 WS:			(' ' | '\t')+;
